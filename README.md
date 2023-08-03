@@ -74,7 +74,9 @@ Through 'npm run build' the dist folder will be built, bundling your assets for 
 
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/104718053/203166865-e5ce54c8-a8dd-4e2e-bf80-7ef3ccd0386a.png)
+<img width="1792" alt="Screenshot 2023-08-03 at 1 39 55 PM" src="https://github.com/lanreabu77/React-Portfolio-Challenge/assets/83088748/23fb9579-5422-4175-89a1-93bd85562e63">
+
+<!-- ![screenshot](https://user-images.githubusercontent.com/104718053/203166865-e5ce54c8-a8dd-4e2e-bf80-7ef3ccd0386a.png) -->
 
 ## Bugs
 
