@@ -11,7 +11,7 @@ import {
 } from "mdb-react-ui-kit";
 
 // profile picture and about me
-import ProfilePic from "../assets/devImg.png";
+import ProfilePic from "../assets/Profilepic2.JPG";
 
 export default function AboutMe() {
   return (
@@ -33,7 +33,8 @@ export default function AboutMe() {
               fontSize: "20px",
             }}
           >
-            Hi there, I'm Lanre, and I am a Technical project manager.
+            Hi there, I'm Lanre, and I am a Technical project manager/Full Stack Web Developer
+             
             {/* <br />
         I am excited to solve real-world problems with my applications.
         <br />
@@ -52,7 +53,7 @@ export default function AboutMe() {
               <a href="https://github.com/lanreabu77">GitHub {"   "} </a>
             </span>
             <span>
-              <a href="https://www.linkedin.com/feed/">
+              <a href="https://www.linkedin.com/in/lanre-abu-9855a5250/">
                 LinkedIn {"   "}
               </a>
             </span>

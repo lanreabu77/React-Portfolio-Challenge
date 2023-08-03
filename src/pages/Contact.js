@@ -56,9 +56,9 @@ export default function Contact() {
           Let's add value to your company. I will always respond within 24 hours
         </MDBCardText>
         <MDBCardText>email: lanreabu@gmail.com</MDBCardText>
-        <MDBCardText>Phone number: </MDBCardText>
+        <MDBCardText>Phone number: 214-622-0000 </MDBCardText>
         <span>
-          <a href="https://www.linkedin.com/in/lanreabu/">LinkedIn {"   "}</a>
+          <a href="https://www.linkedin.com/in/lanre-abu-9855a5250/">LinkedIn {"   "}</a>
         </span>
         <div className="contactMargin">
           <MDBRow className="g-3 align-items-center">

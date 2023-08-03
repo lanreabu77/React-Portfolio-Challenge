@@ -28,10 +28,10 @@ export default function Portfolio() {
               your notes, save, edit and delete them using express server
             </p>
             <div className="d-flex justify-content-evenly">
-              <a href="https://herokuapp.com/" className="btn btn-primary">
+              <a href="https://lanreabu77notetaker.herokuapp.com/notes" className="btn btn-primary">
                 App
               </a>
-              <a href="https://github.com/" className="btn btn-primary">
+              <a href="https://github.com/lanreabu77/Express.js-Note-Taker-Challenge" className="btn btn-primary">
                 Github
               </a>
             </div>
@@ -72,13 +72,13 @@ export default function Portfolio() {
             <div className="d-flex justify-content-evenly">
               {/* links to github and deployed app */}
               <a
-                href="https://lanreabu.github.io/Sun-s-come-out-app/"
+                href="https://lanreabu77.github.io/Weather-Dashboard-App/"
                 className="btn btn-primary"
               >
                 App
               </a>
               <a
-                href="https://github.com/lanreabu/Sun-s-come-out-app"
+                href="https://github.com/lanreabu77/Weather-Dashboard-App"
                 className="btn btn-primary"
               >
                 Github
@@ -118,23 +118,21 @@ export default function Portfolio() {
         <div className="card w-60 h-40 m-5">
           <img
             className="imgScreenshot"
-            src={textEdScreenshot}
+            src={passwordGeneratorScreenshot}
             class="card-img-top"
             alt="Palm Springs Road"
           />
           <div className="card-body">
-            <h5 className="card-title">TextEd Text Editor App</h5>
+            <h5 className="card-title">Password Generator App</h5>
             <p className="card-text">
-              A note-taking app, created using webpack, manifest, indexedDB json
-              and a service worker to allow you to write up and save notes
-              offline.
+            An app that will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
             </p>
             <div className="d-flex justify-content-evenly">
-              <a href="https://herokuapp.com/" className="btn btn-primary">
+              <a href="https://lanreabu77.github.io/Password-Generator/" className="btn btn-primary">
                 App
               </a>
               <a
-                href="https://github.com/lanreabu/TextEd"
+                href="lanreabu77/Password-Generator (github.com)"
                 className="btn btn-primary"
               >
                 Github
@@ -184,13 +182,13 @@ export default function Portfolio() {
             </p>
             <div className="d-flex justify-content-evenly">
               <a
-                href="https://watch.screencastify.com/"
+                href="https://watch.screencastify.com/v/gakdKq0dJOIc4tjpoAr3"
                 className="btn btn-primary"
               >
                 Video
               </a>
               <a
-                href="https://github.com/lanreabu/Organise-my-ShopStock"
+                href="https://github.com/lanreabu77/orm-ecommerce-backend"
                 className="btn btn-primary"
               >
                 Github
@@ -239,13 +237,13 @@ export default function Portfolio() {
             </p>
             <div className="d-flex justify-content-evenly">
               <a
-                href="https://lanreabu.github.io/Schedule-my-life/"
+                href="https://lanreabu77.github.io/Work-Day-Scheduler/"
                 className="btn btn-primary"
               >
                 App
               </a>
               <a
-                href="https://github.com/lanreabu/Schedule-my-life"
+                href="https://github.com/lanreabu77/Work-Day-Scheduler"
                 className="btn btn-primary"
               >
                 Github
