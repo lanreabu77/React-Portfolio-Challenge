@@ -20,7 +20,7 @@ export default function Resume() {
           <MDBCardTitle>Competencies</MDBCardTitle>
           {/* download resume */}
           <a
-            href="put your resume link here"
+            href="https://drive.google.com/file/d/14rtWs0TvWbzQJSKk4fntMjHRWmo1r2OH/view?usp=drive_link"
             target={"_blank"}
             download
             className="btn btn-primary"

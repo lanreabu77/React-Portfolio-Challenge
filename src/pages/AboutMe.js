@@ -87,7 +87,7 @@ export default function AboutMe() {
 He currently works as a Technical Project Manager in one of the leading Finanacial Services companies in the US, leading vast projects to advance the growth of the organization as well as maximizing ROI.
 He has been married to his beautiful wife, Bukky since 2009 and are both blessed with two wonderful boys. In His spare time, He enjoys cooking and hosting close friends and loves to travel and experience different cultures across the world with his Wife/Travel Buddy.
             </MDBCardText>
-            <MDBBtn href="./porfolio.html">My PORFOLIO</MDBBtn>
+            {/* <MDBBtn href="#portfolio">My PORFOLIO</MDBBtn> */}
           </MDBCardBody>
           <MDBCardFooter className="text-muted"></MDBCardFooter>
         </MDBCard>

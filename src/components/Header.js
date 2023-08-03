@@ -23,7 +23,7 @@ export default function Header() {
 
               <a
                 className="btn btn-outline-light btn-lg"
-                href="http://localhost:3000/#contact"
+                href="mailto:lanreabu@gmail.com"
                 role="button"
               >
                 Let's Talk
