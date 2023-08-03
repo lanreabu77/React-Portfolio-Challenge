@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-Challenge/static/css/main.26cdd4b1.css",
+    "main.js": "/React-Portfolio-Challenge/static/js/main.c211001a.js",
+    "static/js/787.696d42fa.chunk.js": "/React-Portfolio-Challenge/static/js/787.696d42fa.chunk.js",
+    "static/media/Profilepic2.JPG": "/React-Portfolio-Challenge/static/media/Profilepic2.9e37103a985eb4a428bd.JPG",
+    "static/media/scheduleMyLifeScreenshot.png": "/React-Portfolio-Challenge/static/media/scheduleMyLifeScreenshot.46fcd9a2e7dad44c6c33.png",
+    "static/media/sunsComeOutScreenshotMedium.png": "/React-Portfolio-Challenge/static/media/sunsComeOutScreenshotMedium.71babd4f8b71214232b2.png",
+    "static/media/passwordGeneratorScreenshot.png": "/React-Portfolio-Challenge/static/media/passwordGeneratorScreenshot.25ba7ee6f8ee07f5288e.png",
+    "static/media/textEdScreenshot.png": "/React-Portfolio-Challenge/static/media/textEdScreenshot.f5d41ebed3d0c77591f8.png",
+    "static/media/noteapp.png": "/React-Portfolio-Challenge/static/media/noteapp.6e39467c65ad627d6db4.png",
+    "index.html": "/React-Portfolio-Challenge/index.html",
+    "main.26cdd4b1.css.map": "/React-Portfolio-Challenge/static/css/main.26cdd4b1.css.map",
+    "main.c211001a.js.map": "/React-Portfolio-Challenge/static/js/main.c211001a.js.map",
+    "787.696d42fa.chunk.js.map": "/React-Portfolio-Challenge/static/js/787.696d42fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26cdd4b1.css",
+    "static/js/main.c211001a.js"
+  ]
+}
