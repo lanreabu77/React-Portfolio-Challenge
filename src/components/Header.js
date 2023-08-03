@@ -19,7 +19,7 @@ export default function Header() {
           <div className="d-flex justify-content-center align-items-center h-100">
             <div className="text-white">
               <h1 className="mb-3">Lanre Abu</h1>
-              <h4 className="mb-3">Coding Solutions </h4>
+              <h4 className="mb-3">TPM & Coding Solutions </h4>
 
               <a
                 className="btn btn-outline-light btn-lg"

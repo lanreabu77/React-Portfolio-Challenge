@@ -15,7 +15,7 @@ export default function Footer() {
             {/* <!-- Facebook --> */}
             <a
               className="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="#!"
+              href="https://www.facebook.com"
               role="button"
               data-mdb-ripple-color="dark"
             >
@@ -25,7 +25,7 @@ export default function Footer() {
             {/* <!-- Twitter --> */}
             <a
               className="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="#!"
+              href="https://twitter.com/home"
               role="button"
               data-mdb-ripple-color="dark"
             >
@@ -35,7 +35,7 @@ export default function Footer() {
             {/* <!-- Google --> */}
             <a
               className="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="#!"
+              href="https://mail.google.com/mail/u/0/#inbox"
               role="button"
               data-mdb-ripple-color="dark"
             >
@@ -45,7 +45,7 @@ export default function Footer() {
             {/* <!-- Instagram --> */}
             <a
               className="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="#!"
+              href="https://www.instagram.com/mr._abu77/"
               role="button"
               data-mdb-ripple-color="dark"
             >
@@ -64,7 +64,7 @@ export default function Footer() {
             {/* <!-- Github --> */}
             <a
               className="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="https://github.com/lanreabu/"
+              href="https://github.com/lanreabu77"
               role="button"
               data-mdb-ripple-color="dark"
             >
