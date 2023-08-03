@@ -59,14 +59,15 @@ This app is a single page, dynamically rendered React portfolio. Showcasing my w
 
 ## Repo and Deployment Links
 
-[Github Repository]()
+Github Repository:
 
 https://github.com/lanreabu77/React-Portfolio-Challenge
 
-[LiveURL]()
+LiveURL:
 
+https://lanreabu77.github.io/react-portfolio/#aboutme
 
 ## Contact
 
-If you have any questions, or would like to get in touch find me on GitHub [Lanre-Abu](https://github.com/Lanre)
-or email me at lanreabu@gmail.com.
+If you have any questions, or would like to get in touch find me on GitHub [Lanre-Abu](https://github.com/lanreabu77/React-Portfolio-Challenge)
+or email me at lanreabu@gmail.com
