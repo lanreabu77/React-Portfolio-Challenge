@@ -34,20 +34,6 @@ This app is a single page, dynamically rendered React portfolio. Showcasing my w
 - WHEN I view the footer
   THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
-## Table of Contents
-
-- [Technologies used](#technologies-used)
-- [How to install](#how-to-install)
-- [Usage](#usage)
-- [License](#license)
-- [Screenshot](#screenshot)
-- [Bugs](#bugs)
-- [Version History](#Version-history)
-- [Links to repo and heroku](#links-to-repo-and-heroku)
-- [Contributing](#contributing)
-- [LiveURL](#liveurl)
-- [Contact](#contact)
-
 ## Technologies used
 
 ![Technologies-used](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
@@ -58,14 +44,6 @@ This app is a single page, dynamically rendered React portfolio. Showcasing my w
 ![Technologies-used](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white)
 ![Technologies-used](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)
 ![Technologies-used](https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=white)
-
-## How to install
-
-In the terminal, start by typing "npm i". This will install all the dependencies and dev dependencies required. To run the app, 'npm start'.
-
-## Usage
-
-Through 'npm run build' the dist folder will be built, bundling your assets for efficiency. The local host server will start on local host 3000. You can also run 'npm start'. To deploy to a URL on Github pages, run 'npm run deploy' every time you have updates.
 
 ## License
 
@@ -78,32 +56,17 @@ Through 'npm run build' the dist folder will be built, bundling your assets for 
 
 <!-- ![screenshot](https://user-images.githubusercontent.com/104718053/203166865-e5ce54c8-a8dd-4e2e-bf80-7ef3ccd0386a.png) -->
 
-## Bugs
 
-- Dynamic components were not rendering correctly.
-
-- An intermediate component was created.
-
-## Version history
-
-- 0.1 Dependencies and dev dependencies installed.
-- 0.2 Established local host connection.
-- 0.3 Initial 'static' components were created.
-- 0.4 Dynamic components were created.
-
-## Links to repo and heroku
+## Repo and Deployment Links
 
 [Github Repository]()
 
+https://github.com/lanreabu77/React-Portfolio-Challenge
+
 [LiveURL]()
 
-## Contributing
-
-To contribute to the repo yourself please:
-
-Git clone the repository, work on the code, then make a pull request.
 
 ## Contact
 
 If you have any questions, or would like to get in touch find me on GitHub [Lanre-Abu](https://github.com/Lanre)
-or email me at abulanre@gmail.com.
+or email me at lanreabu@gmail.com.
